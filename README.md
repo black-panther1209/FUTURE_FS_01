@@ -1,16 +1,91 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive developer portfolio website built using React.js and Tailwind CSS.
+This project showcases my skills, projects, achievements, and developer information with a clean dark-themed UI and smooth animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Features
 
-## React Compiler
+* ✨ Modern Dark UI Design
+* 📱 Fully Responsive Layout
+* ⚡ Smooth Animations & Transitions
+* 🧑‍💻 Projects Showcase Section
+* 📄 Skills & About Section
+* 📬 Contact Section
+* 🎨 Interactive UI Components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Tailwind CSS
+* JavaScript
+* Vite
+
+---
+
+## 📂 Project Structure
+
+```text id="w1"
+src/
+components/
+pages/
+assets/
+public/
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash id="w2"
+git clone https://github.com/black-panther1209/FUTURE_FS_01.git
+```
+
+Navigate to project folder:
+
+```bash id="w3"
+cd FUTURE_FS_01
+```
+
+Install dependencies:
+
+```bash id="w4"
+npm install
+```
+
+Run development server:
+
+```bash id="w5"
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+
+
+---
+
+## 👩‍💻 Author
+
+Shristi Pandey
+
+GitHub:
+https://github.com/black-panther1209
+
+---
+
+## ⭐ Future Improvements
+
+* Add backend integration
+* Add animations using Framer Motion
+* Add project filtering system
+* Improve accessibility & performance
+
+---
